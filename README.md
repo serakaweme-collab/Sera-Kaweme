@@ -64,3 +64,8 @@ This project is a semantic HTML-only website designed to promote **environmental
 
 ## 📜 License
 © Green Zambia Organization. All rights reserved.
+```
+
+This README captures your project’s structure, process, and best practices while presenting it in a professional, GitHub-ready format.  
+
+Would you like me to also create a **sample HTML skeleton** that matches this README so you can directly align your documentation with your code?
