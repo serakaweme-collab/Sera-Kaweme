@@ -1,6 +1,3 @@
-# Sera-Kaweme
-Website projects
-
 QUESTION 1: WEBSITE CREATION
 I would create a Green Zambia Organization website using only HTML. The purpose of the site is to promote environmental sustainability, renewable energy, and conservation efforts in Zambia.
 Content and Structure:
