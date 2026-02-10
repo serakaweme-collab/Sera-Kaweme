@@ -11,10 +11,10 @@ Contact Section: A form where visitors can send inquiries or volunteer applicati
 Footer: Copyright and organizational details.
 
 Semantic HTML Usage:
-<header> for the logo and navigation.
-<section> for mission, projects, and contact.
-<article> for individual project descriptions.
-<footer> for closing information.
+header element for the logo and navigation.
+section element for mission, projects, and contact.
+article element for individual project descriptions.
+footer element for closing information.
   
 Elements and Attributes:
 Over 25 elements including:
