@@ -1,4 +1,4 @@
-# 🌍 Green Zambia Organization Website
+# Green Zambia Organization Website
 
 ## Overview
 This project is a semantic HTML-only website designed to promote **environmental sustainability, renewable energy, and conservation efforts in Zambia**. It highlights the mission, projects, and impact of the Green Zambia Organization while ensuring accessibility and clean structure.
