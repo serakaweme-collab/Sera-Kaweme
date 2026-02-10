@@ -1,81 +1,102 @@
-QUESTION 1: WEBSITE CREATION
+# Green Zambia Organization Website
 
-I would create a Green Zambia Organization website using only HTML. The purpose of the site is to promote environmental sustainability, renewable energy, and conservation efforts in Zambia.
+## Student Information
+- **Student Name:** Nsemba Fancy  
+- **Student ID:** [Insert Your ID]  
+- **GitHub Repository:** [Insert Your Repository URL]  
 
-Content and Structure:
-Homepage: Introduction to Green Zambia Organization with logo and mission statement.
-Mission Section: Clear explanation of the organization’s goals—tree planting, renewable energy, conservation.
-Projects Section: Articles describing initiatives such as solar energy programs and community awareness campaigns.
-Impact Table: A table showing focus areas (renewable energy, conservation, community engagement) and their impacts.
-Contact Section: A form where visitors can send inquiries or volunteer applications.
-Footer: Copyright and organizational details.
+---
 
-Semantic HTML Usage:
-header element for the logo and navigation.
-section element for mission, projects, and contact.
-article element for individual project descriptions.
-footer element for closing information.
-  
-Elements and Attributes:
-Over 25 elements including:
-<html> <head> <meta> <title> <body> <header> <h1> <section> <h2> <p> <img> <article> <h3> <table> <caption> <form> <label> <footer> <nav> <ul> <li> <a> <img> <form> <input> <textarea> <table> <caption> <tr> <th> <td>
-•	At least 15 attributes such as;
-href, title, id, src, alt, width, height, border, action, method, for, type, required, placeholder, rows, cols, value
-This ensures the site is functional, accessible, and well-structured while meeting the assignment requirements.
+## Question 1: Website Creation
+I created a **Green Zambia Organization website** to promote environmental awareness, sustainability projects, and community initiatives in Zambia.  
 
-Question 2: HTML Elements
-1.	Most challenging elements:
-o	<form>: Handling input fields and ensuring proper structure.
-o	<table>: Organizing rows and columns neatly.
-o	<audio>: Embedding audio with fallback options.
-o	<video>: Managing controls and multiple formats.
-o	<figure> with <figcaption> – presenting project images with descriptive captions.
-o	<iframe>: Integrating external content without breaking layout.
-  
-2.	Use of semantic elements:
-o	<header>: Placed at the top with navigation links.
-o	<section>: Divided content into logical parts (About, Projects, Contact).
-o	<article>: Used for blog posts or project descriptions.
-o	<footer>: Contained copyright and contact details.
+**Content includes:**
+- **Homepage:** Introduction to Green Zambia Organization and its mission.  
+- **About Section:** Background, vision, and objectives of the organization.  
+- **Projects Section:** Details of ongoing environmental projects (tree planting, recycling, renewable energy).  
+- **News & Articles Section:** Updates on environmental campaigns and educational articles.  
+- **Contact Section:** Email, phone, and social media links for community engagement.  
+- **Footer:** Copyright, navigation links, and acknowledgments.  
 
-3.	Most useful element for layout:
-<section> was the most useful because it allowed clear separation of content areas, making the site more organized and easier to read.
+---
 
-  Question 3: HTML Attributes
-1.	Essential attributes: 
-o	href (used in <a>): Enabled navigation between pages and external links.
-o	src (used in <img>, <video>, <audio>): Made multimedia functional by linking to files.
-o	alt (used in <img>): Ensured accessibility and provided fallback descriptions.
+## Question 2: HTML Elements
+1. **Most challenging elements:**
+   - `<form>` – creating a functional volunteer sign-up form.  
+   - `<table>` – organizing project statistics (trees planted, communities reached).  
+   - `<audio>` – embedding environmental awareness podcasts.  
+   - `<video>` – showcasing project documentaries.  
+   - `<figure>` with `<figcaption>` – presenting project images with descriptive captions.  
 
-  These attributes were crucial for making the website interactive, accessible, and functional.
+2. **Semantic elements usage:**  
+   - `<header>` for the organization’s logo and navigation menu.  
+   - `<section>` for grouping content (About, Projects, News, Contact).  
+   - `<article>` for individual news stories and project updates.  
+   - `<footer>` for closing notes, copyright, and external links.  
 
-  2.	Class vs. Id usage:
-•	Class: Used for styling multiple elements consistently (e.g., project cards, article blocks).
-•	Id: Used for unique identifiers like navigation anchors (id="projects").
-3.	Attribute improving user experience most:
-•	alt in <img> because it ensures accessibility and provides context when images don’t load, especially important for visually impaired users.
-Question 4: Development Process
-1.	Planning: I outlined the site map with sections (Home, About, Projects, News, Contact) before coding.
-2.	Testing & Debugging: I used browser developer tools to check rendering, validated HTML with W3C validator, and corrected nesting errors.
-3.	Challenges:
-o	Structuring project statistics in tables → solved by reviewing table syntax.
-o	Embedding multimedia → solved by using proper attributes (controls, autoplay, loop).
-o	Ensuring accessibility → solved by adding alt, label, and title attributes.
-Question 5: Git & GitHub Implementation
-1.	Git commands used:
-o	git init, git add ., git commit -m "message", git push origin main.
-2.	Commits: Around 12 commits, each with descriptive messages like "Added volunteer form" or "Updated projects section".
-3.	Importance of version control: It tracks changes, prevents data loss, and allows collaboration with instructors and peers.
-Question 6: Code Quality & Best Practices
-1.	Ensuring valid HTML: Used W3C validator and corrected errors.
-2.	Best practices followed:
-o	Proper indentation and nesting.
-o	Semantic tags for clarity.
-o	Descriptive commit messages.
-o	README.md documentation.
-3.	Improvements with more time:
-o	Add responsive design with CSS.
-o	Include interactive maps of project locations.
-o	Expand multimedia content with more videos and podcasts.
+3. **Most useful element for layout:**  
+   - `<section>` because it allowed clear separation of organizational content, making the site easy to navigate.
 
+---
 
+## Question 3: HTML Attributes
+1. **Essential attributes:**  
+   - `href` in `<a>` for linking to project pages and external resources.  
+   - `src` in `<img>` for displaying project photos.  
+   - `type` in `<input>` for correct volunteer form functionality.  
+
+2. **Class vs. Id usage:**  
+   - **Class:** Used for styling multiple elements consistently (e.g., project cards, article blocks).  
+   - **Id:** Used for unique identifiers like navigation anchors (`id="projects"`).  
+
+3. **Attribute improving user experience most:**  
+   - `alt` in `<img>` because it ensures accessibility and provides context when images don’t load, especially important for visually impaired users.
+
+---
+
+## Question 4: Development Process
+1. **Planning:** I outlined the site map with sections (Home, About, Projects, News, Contact) before coding.  
+2. **Testing & Debugging:** I used browser developer tools to check rendering, validated HTML with W3C validator, and corrected nesting errors.  
+3. **Challenges:**  
+   - Structuring project statistics in tables → solved by reviewing table syntax.  
+   - Embedding multimedia → solved by using proper attributes (`controls`, `autoplay`, `loop`).  
+   - Ensuring accessibility → solved by adding `alt`, `label`, and `title` attributes.
+
+---
+
+## Question 5: Git & GitHub Implementation
+1. **Git commands used:**  
+   - `git init`, `git add .`, `git commit -m "message"`, `git push origin main`.  
+2. **Commits:** Around 12 commits, each with descriptive messages like `"Added volunteer form"` or `"Updated projects section"`.  
+3. **Importance of version control:** It tracks changes, prevents data loss, and allows collaboration with instructors and peers.
+
+---
+
+## Question 6: Code Quality & Best Practices
+1. **Ensuring valid HTML:** Used W3C validator and corrected errors.  
+2. **Best practices followed:**  
+   - Proper indentation and nesting.  
+   - Semantic tags for clarity.  
+   - Descriptive commit messages.  
+   - README.md documentation.  
+3. **Improvements with more time:**  
+   - Add responsive design with CSS.  
+   - Include interactive maps of project locations.  
+   - Expand multimedia content with more videos and podcasts.
+
+---
+
+## Technical Requirements Checklist
+- ✅ 25+ HTML elements used  
+- ✅ 15+ attributes used  
+- ✅ Semantic structure implemented  
+- ✅ Works in browser  
+- ✅ GitHub repository created  
+- ✅ README.md file completed  
+- ✅ Instructor added as collaborator (Billypeterlennards)  
+- ✅ Instructor followed on GitHub  
+- ✅ Submitted via Google Classroom  
+
+---
+
+## Final Submission Format
