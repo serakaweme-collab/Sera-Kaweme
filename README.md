@@ -1,11 +1,5 @@
 # Green Zambia Organization Website
 
-## Student Information
-- **Student Name:** SERA KAWEME 
-- **Student ID:** 202502408463
-- **GitHub Repository:** https://github.com/serakaweme-collab/Sera-Kaweme
-
-
 ## Overview
 This project is a semantic HTML-only website designed to promote **environmental sustainability, renewable energy, and conservation efforts in Zambia**. It highlights the mission, projects, and impact of the Green Zambia Organization while ensuring accessibility and clean structure.
 
