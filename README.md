@@ -1,8 +1,8 @@
 # Green Zambia Organization Website
 
 ## Student Information
-- **Student Name:** Nsemba Fancy  
-- **Student ID:** [Insert Your ID]  
+- **Student Name:** SERA KAWEME 
+- **Student ID:** 202502408463
 - **GitHub Repository:** [Insert Your Repository URL]  
 
 ---
